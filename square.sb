@@ -1,0 +1,4 @@
+For i=1 To 4
+  Motor.Move("bc",50,800,"true")
+  Motor.MoveSync("bc",50,-50,600/2,"True")
+EndFor
