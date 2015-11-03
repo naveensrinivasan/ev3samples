@@ -1,0 +1,6 @@
+'It makes a N
+Motor.Move("bc",50,1000,"true") 'goes straight
+Motor.MoveSync("bc",50,-50,580/2+130,"true")
+Motor.Move("bc",50,950,"true") 'goes straight
+Motor.MoveSync("bc",-50,50,580/2+130,"true")
+Motor.Move("bc",50,1000,"true") 'goes straight
