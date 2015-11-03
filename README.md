@@ -1,2 +1,2 @@
 # ev3samples
-ev3 samples code for my kids.
+ev3 samples code of my kids.
